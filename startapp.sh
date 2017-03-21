@@ -1,0 +1,1 @@
+nohup python startapp.py > startapp.out 2>&1&
